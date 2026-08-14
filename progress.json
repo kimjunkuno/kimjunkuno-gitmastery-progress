@@ -86,24 +86,5 @@
       "Great work pushing changes to the remote!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1786696724.95687,
-    "completed_at": 1786696728.36107,
-    "comments": [
-      "You are still ignoring many/file22.txt.",
-      "You should be using ** to match all subfolders to ignore runaway.txt."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1786697791.953675,
-    "completed_at": 1786697795.450257,
-    "comments": [
-      "You are not ignoring runaway.txt. Find where the file is and fix that."
-    ],
-    "status": "Incomplete"
   }
 ]
