@@ -384,5 +384,15 @@
       "Great work pushing the PQR branch to your fork!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1787301416.683907,
+    "completed_at": 1787301419.542169,
+    "comments": [
+      "The local VWX branch does not track origin/VWX.",
+      "New commit in the remote DEF branch is not pulled to the local DEF branch."
+    ],
+    "status": "Incomplete"
   }
 ]
